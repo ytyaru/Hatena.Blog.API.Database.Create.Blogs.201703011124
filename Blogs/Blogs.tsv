@@ -1,0 +1,5 @@
+Id	AccountId	BlogId	HatenaBlogId	Title	Description	CreatedAt
+0	0	blog000.hatenablog.com	hatenablog://blog/000	ブログのタイトル0	ブログの説明0	2000-01-01 00:00:00+09:00
+1	0	blog001.hatenablog.com	hatenablog://blog/001	ブログのタイトル1	ブログの説明1	2000-01-02 00:00:00+09:00
+2	0	blog002.hatenablog.com	hatenablog://blog/002	ブログのタイトル2	ブログの説明2	2000-01-03 00:00:00+09:00
+3	1	weblog000.hatenablog.com	hatenablog://blog/user001weblog000	ブログのタイトルルル	ブログの説明明明	2000-01-04 00:00:00+09:00
